@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sozo0901
+- 👀 I’m interested in ...ART and MUSIC.
+- 🌱 I’m currently learning ...Ruby on Rails and JS.
