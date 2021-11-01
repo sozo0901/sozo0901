@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Taiki Ishikawa!
 - 👀 I’m interested in ...ART and MUSIC.
-- 🌱 I’m currently learning ...Ruby on Rails and JS.
+- 🌱 I’m currently learning ...HTML, CSS, JS and Ruby on Rails.
